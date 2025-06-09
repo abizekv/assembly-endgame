@@ -1,6 +1,6 @@
-# 🧰 Assembly: Endgame
+# 🤖 Assembly: Endgame
 
-![assembly endgame preview](./src/assets/assembly-endgame.jpg)
+![assembly endgame preview](./src/assets/assembly-endgame-preview.jpg)
 
 ## 📝 Project Description
 
